@@ -1,6 +1,7 @@
 *
 
 !sj/
-!multi/
+!multi.*/
+!movement/
 !autoexec.cfg
 !.gitignore
